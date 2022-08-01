@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i'm dev branch
+=======
+i'm tag v0.0.2
+dev merged local tag
+>>>>>>> f0.0.1
